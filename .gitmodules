@@ -1,3 +1,6 @@
 [submodule "BMAD-METHOD"]
 	path = BMAD-METHOD
 	url = https://github.com/bmad-code-org/BMAD-METHOD
+[submodule "Balance"]
+	path = Balance
+	url = https://github.com/Rashit-dev-go/sigma-lab-balance.git
