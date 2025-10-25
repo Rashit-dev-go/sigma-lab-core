@@ -3,4 +3,4 @@
 	url = git@github.com:Rashit-dev-go/sigma-lab-core.git
 [submodule "Balance"]
 	path = Balance
-	url = https://github.com/Rashit-dev-go/sigma-lab-balance.git
+	url = git@github.com:Rashit-dev-go/sigma-lab-balance.git
